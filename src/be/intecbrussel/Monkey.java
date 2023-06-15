@@ -1,6 +1,6 @@
 package be.intecbrussel;
 
-public class Monkey extends Animal{
+public class Monkey extends Animal implements Treatable{
 
     //Constructor
     private boolean isHyperActive;
@@ -22,6 +22,12 @@ public class Monkey extends Animal{
 
     public void setHyperActive(boolean hyperActive) {
         isHyperActive = hyperActive;
+    }
+
+    @Override
+    public void treatAnimal(){
+        this.setClean(true);
+        this.setHyperActive(false);
     }
 
     @Override

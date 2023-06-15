@@ -1,6 +1,6 @@
 package be.intecbrussel;
 
-public class Dog extends Animal{
+public class Dog extends Animal implements Treatable{
     private boolean hasFoulBreath;
 
     //Constructor
@@ -22,6 +22,11 @@ public class Dog extends Animal{
 
     public void setHasFoulBreath(boolean hasFoulBreath) {
         this.hasFoulBreath = hasFoulBreath;
+    }
+    @Override
+    public void treatAnimal(){
+        this.setClean(true);
+        this.setHasFoulBreath(false);
     }
 
     @Override

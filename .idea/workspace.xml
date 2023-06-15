@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16acbecc-9c87-45ce-8c28-1bcafdf3b296" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FundamentaltestVaccine.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/AnimalShelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Disease.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Monkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Treatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/be/intecbrussel/Vaccinateable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/be/intecbrussel/Monkey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/be/intecbrussel/Monkey.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +82,18 @@
       <option name="presentableId" value="Default" />
       <updated>1686554063217</updated>
     </task>
+    <task id="LOCAL-00001" summary="git">
+      <created>1686815148376</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686815148376</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git" />
   </component>
 </project>

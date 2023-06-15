@@ -1,6 +1,6 @@
 package be.intecbrussel;
 
-public class Cat extends Animal{
+public class Cat extends Animal implements Treatable{
     private boolean hasLongNails;
 
     //Constructor
@@ -21,6 +21,11 @@ public class Cat extends Animal{
 
     public void setHasLongNails(boolean hasLongNails) {
         this.hasLongNails = hasLongNails;
+    }
+    @Override
+    public void treatAnimal(){
+        this.setClean(true);
+        this.setHasLongNails(false);
     }
 
     @Override

@@ -68,11 +68,7 @@ public abstract class Animal implements Vaccinateable,Treatable{
         this.animalNumber = animalNumber;
     }
 
-    @Override
-    public void treatAnimal() {
-        isClean=true;
 
-    }
 
     @Override
     public void vaccinateAnimal(Disease disease) {
